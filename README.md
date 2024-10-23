@@ -1,4 +1,4 @@
-# Loja de Roupa - Alterado localmente
+# Loja de Roupa - Alterado local-readme update
 
 Este projeto é uma aplicação web para a gestão de uma loja de roupa online, desenvolvida com **Bootstrap** para um design responsivo e moderno. Inclui funcionalidades completas para os clientes navegarem, comprarem produtos e gerirem as suas contas, bem como uma interface administrativa para gerir o conteúdo do site.
 
