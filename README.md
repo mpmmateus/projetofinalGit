@@ -1,16 +1,16 @@
-# Loja de Roupa - Alterado
+# Loja de Roupa - Alterado localmente
 
 Este projeto é uma aplicação web para a gestão de uma loja de roupa online, desenvolvida com **Bootstrap** para um design responsivo e moderno. Inclui funcionalidades completas para os clientes navegarem, comprarem produtos e gerirem as suas contas, bem como uma interface administrativa para gerir o conteúdo do site.
 
 ## Funcionalidades Principais
 
 - **Página Principal (index.php)**: Página inicial com destaque para os principais produtos e promoções.
-- **Área Cliente (areacliente.php)**: Secção dedicada ao cliente, onde ele pode visualizar e gerir informações pessoais, histórico de compras e preferências.
+- **Área Cliente (areaCliente.php)**: Secção dedicada ao cliente, onde ele pode visualizar e gerir informações pessoais, histórico de compras e preferências.
 - **Alterar Morada (altera_morada.php)**: Permite ao utilizador atualizar a sua morada de entrega e faturação.
 - **Carrinho (carrinho.php)**: Os clientes podem adicionar produtos ao carrinho, visualizar o total da compra e proceder ao checkout.
 - **Login e Registo (login.php e registo.php)**: Sistema de autenticação onde os utilizadores podem criar contas e iniciar sessão.
 - **Contactos (contactos.php)**: Página com informações de contacto, formulário para envio de mensagens e detalhes de localização da loja.
-- **Sobre Nós (sobre_nos.php)**: Uma página que descreve a história e missão da loja de roupa.
+- **Sobre Nós (sobrenos.php)**: Uma página que descreve a história e missão da loja de roupa.
 - **Galeria (galeria.php)**: Galeria de imagens dos produtos em destaque e novas coleções.
 - **Soluções (solucoes.php)**: Página que detalha os serviços e soluções oferecidas pela loja, como entregas, políticas de devolução e suporte.
 
@@ -19,13 +19,13 @@ Este projeto é uma aplicação web para a gestão de uma loja de roupa online, 
 Abaixo está uma descrição breve dos principais ficheiros e pastas:
 
 - **index.php**: Página principal da loja, onde os utilizadores têm uma visão geral dos produtos disponíveis.
-- **areacliente.php**: Página para os clientes gerirem a sua conta, incluindo histórico de compras e dados pessoais.
+- **areaCliente.php**: Página para os clientes gerirem a sua conta, incluindo histórico de compras e dados pessoais.
 - **altera_morada.php**: Permite aos utilizadores alterar a morada de entrega e faturação.
 - **carrinho.php**: Sistema de carrinho de compras que permite adicionar, remover e visualizar itens antes de proceder ao pagamento.
 - **login.php**: Página de login para utilizadores registados.
 - **registo.php**: Formulário de registo para novos utilizadores.
 - **contactos.php**: Página com os contactos da loja e um formulário para envio de mensagens.
-- **sobre_nos.php**: Página que conta a história e filosofia da loja.
+- **sobrenos.php**: Página que conta a história e filosofia da loja.
 - **galeria.php**: Galeria de imagens dos produtos e coleções.
 - **solucoes.php**: Informações detalhadas sobre as soluções oferecidas pela loja, como políticas de envio, devoluções e métodos de pagamento.
 
@@ -87,5 +87,4 @@ Abaixo está uma descrição breve dos principais ficheiros e pastas:
 3. **Gerir Conta**:
    - Na área cliente, é possível alterar dados pessoais, como a morada de entrega (através de `altera_morada.php`), ver histórico de compras, e mais.
 
-4. **Checkout**:
-   - Após adicionar os produtos ao carrinho, o utilizador pode proceder ao pagamento e finalizar a compra.
+
