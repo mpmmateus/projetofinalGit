@@ -19,7 +19,7 @@ include "header.php";
 <section id="areaCliente" class="container">
     <div class="row">
         <div class="col">
-            <h2>Bem-vindo à Área do Cliente, <?php echo $user_data['first_name']; ?>!</h2>
+            <h2>Bem-vindo à sua Área Cliente, <?php echo $user_data['first_name']; ?>!</h2>
             <h3>Informações do utilizador:</h3>
             <p>Nome: <?php echo $user_data['first_name'] . ' ' . $user_data['last_name']; ?></p>
             <p>Email: <?php echo $user_data['email']; ?></p>
