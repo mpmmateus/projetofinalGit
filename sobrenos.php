@@ -30,7 +30,7 @@
             </div>
             <div class="col-6">
                 <p class="video1">
-                    Se não conhece o estilo Vintage veja este video e identifique-se. <br> Aprenda a ser Vintage!
+                    Se não conhece o estilo Vintage veja este video e identifique-se. <br> Seja Vintage!
                 </p>
             </div>
         </div>
