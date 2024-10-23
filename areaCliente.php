@@ -41,7 +41,7 @@ include "header.php";
             <div class="card">
                 <div class="card-body">
                     <h5 class="card-title">Ver Encomendas</h5>
-                    <p class="card-text">Visualize o histórico de suas encomendas.</p>
+                    <p class="card-text">Visualize o histórico das suas encomendas.</p>
                     <a href="#" class="btn btn-secondary">Ir para Ver Encomendas</a>
                 </div>
             </div>

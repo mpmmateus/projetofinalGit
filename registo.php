@@ -62,11 +62,11 @@ include "header.php";
                 <label>Género:</label>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="gender" id="male" value="M">
-                    <label class="form-check-label" for="male">Male</label>
+                    <label class="form-check-label" for="male">Masculino</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="gender" id="female" value="F">
-                    <label class="form-check-label" for="female">Female</label>
+                    <label class="form-check-label" for="female">Feminino</label>
                 </div>
             </div>
             <div class="form-group">
@@ -74,7 +74,7 @@ include "header.php";
                 <select class="form-control" id="age" name="age">
                     <option value="0-29">Menos de 30</option>
                     <option value="30-60">Entre 30 e 60</option>
-                    <option value="60+">mais 60</option>
+                    <option value="60+">Mais 60</option>
                 </select>
             </div>
             <div class="form-group">
